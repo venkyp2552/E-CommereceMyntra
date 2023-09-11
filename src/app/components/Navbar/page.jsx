@@ -2,7 +2,9 @@ import React from 'react'
 
 const Navbar = () => {
   return (
-    <div>Navbar Section</div>
+    <div className='w-full navbarStyles'>
+      <h1>Hello</h1>
+    </div>
   )
 }
 
